@@ -1,3 +1,2 @@
 # myarchery
-my_archery
-sasasas
+my_archery sasasasa
