@@ -1,1 +1,1 @@
-From hhyo/archery:v1.9.1
+From hhyo/archery:v1.10.0
